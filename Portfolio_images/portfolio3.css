@@ -1,0 +1,205 @@
+*{
+    
+}
+
+.wrapper{
+    margin: auto;
+    height: 1000px;
+    width: 1000px;
+    background-color: rgb(250, 250, 250);
+    font-style: inherit;
+}
+
+h1{
+    display: inline-block;
+    width: 650px;
+    margin: 10px;
+}
+
+h3{
+    display: inline-block;
+}
+
+.container{
+    height: 850px;
+    width: 1000px;
+    background-color: rgb(77, 61, 61);
+}
+
+.container img{
+    margin: 20px;
+    border: 10px solid gray;
+    height: 250px;
+    width: 400px;
+}
+
+.content1{
+    display: inline-block;
+    margin: 18px;
+    height: 270px;
+    width: 500px;
+    background-image: linear-gradient(to right,white,rgb(233, 213, 213));
+    vertical-align: top;
+}
+
+.content2, .content3, .content4{
+    vertical-align: top;
+    display: inline-block;
+    margin: 15px;
+    height: 500px;
+    width: 300px;
+    background-image: linear-gradient(to right,white,rgb(233, 213, 213));
+}
+
+.content1 h2{
+    background-image: radial-gradient(gray, silver);
+    color: white;
+    margin: auto;
+    padding: 5px;
+}
+
+.content1 p{
+    margin: 10px;
+}
+
+.content1 u{
+    margin: 10px;
+}
+
+.content2 h2{
+    background-image: radial-gradient(gray, silver);
+    color: white;
+    margin: auto;
+    padding: 10px;
+}
+
+.content2 img{
+    height: 150px;
+    margin: auto;
+    border: none;
+    width: 300px;
+}
+
+.content2 p{
+    margin: auto;
+    padding: 10px;
+    font-size: 80%;
+    height: 104px;
+}
+
+.content2 h3{
+    background-image: radial-gradient(gray, silver);
+    color: white;
+    width: 280px;
+    padding: 10px;
+    margin: auto;
+}
+
+.group1 img{
+    height: 30px;
+    width: 40px;
+    margin: 1px;
+    padding: 5px;
+    display: inline-block;
+}
+
+button{
+    background-color: green;
+    color: white;
+    margin-left: 105px;
+    box-shadow: 20px;
+}
+
+.content3 h2{
+    margin: auto;
+    padding: 10px;
+    background-image: radial-gradient(gray, silver);
+    color: white;
+}
+
+.content3 img{
+    height: 150px;
+    width: 300px;
+    margin: auto;
+    border: none;
+}
+
+.content3 p{
+    margin: auto;
+    padding: 10px;
+    font-size: 80%;
+    height: 104px;
+}
+
+.content3 h3{
+    background-image: radial-gradient(gray, silver);
+    color: white;
+    width: 280px;
+    padding: 10px;
+    margin: auto;
+}
+
+.group2 img{
+    height: 30px;
+    width: 40px;
+    margin: 1px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.content4 h2{
+    margin: auto;
+    padding: 10px;
+    background-image: radial-gradient(gray, silver);
+    color: white;
+}
+
+.content4 img{
+    height: 150px;
+    width: 300px;
+    margin: auto;
+    border: none;
+}
+
+.content4 p{
+    margin: auto;
+    padding: 10px;
+    font-size: 80%;
+}
+
+.content4 h3{
+    background-image: radial-gradient(gray, silver);
+    color: white;
+    width: 280px;
+    padding: 10px;
+    margin: auto;
+}
+
+.group3 img{
+    height: 30px;
+    width: 40px;
+    margin: 1px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.bottom{
+    margin: auto;
+    height: 80px;
+    width: 1000px;
+    background-color: rgb(250, 250, 250);
+}
+
+.bottom h4{
+    text-align: center;
+    margin: 10px;
+}
+.bottom img{
+    height: 20px;
+    width: 20px;
+}
+
+.bottom h4{
+    text-decoration: underline;
+    font-style: italic;
+}
